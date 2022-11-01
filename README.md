@@ -1,4 +1,4 @@
-# movie_app
+# IMDB Movie App
 
 A new Flutter project.
 
